@@ -1,0 +1,3 @@
+﻿  main.cpp
+SDL2main.lib(SDL_windows_main.obj) : error LNK2001: неразрешенный внешний символ "_SDL_main"
+C:\Users\stast\Desktop\programming\C++\курсовик\DEV\test\Project2\Release\Project2.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
